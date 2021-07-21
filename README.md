@@ -11,7 +11,6 @@ Korištene tehnologije:
 
 Instalacija na klijentskoj strani (prikaz sučelja aplikacije)
 
-1. korak
 
 Otvoriti novi terminal i napisati
 
