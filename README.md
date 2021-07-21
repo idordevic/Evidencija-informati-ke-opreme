@@ -8,3 +8,15 @@ Korištene tehnologije:
  - MS SQL Server - baza podataka
  - ASP dot net Web API - backend
  - React JS - frontend
+
+Instalacija na klijentskoj strani (prikaz sučelja aplikacije)
+1. korak
+Otvoriti novi terminal i napisati
+
+cd client
+2. korak
+npm install axios @date-io/date-fns@1.3.13 @material-ui/pickers@3.3.10
+Pokrenuti kod
+npm start
+Otvaranje aplikacije u pregledniku
+http://localhost:3000/
