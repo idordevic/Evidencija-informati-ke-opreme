@@ -11,6 +11,7 @@ Korištene tehnologije:
 
 Instalacija na klijentskoj strani (prikaz sučelja aplikacije)
 
+clone aplikacije sa povetnice: https://github.com/idordevic/Evidencija_informaticke_opreme
 
 Otvoriti novi terminal i napisati
 
